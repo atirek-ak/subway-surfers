@@ -16,9 +16,6 @@ Open the 'index.html' file in your browser.
 * JS
 * WebGL
 
-## Version
-1.0
-
 ## Author
 Atirek Kumar  
 Github handle: https://github.com/atirek-ak/
